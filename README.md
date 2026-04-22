@@ -1,64 +1,103 @@
-# beauty-salon-scheduling-system
+# Beauty Salon Scheduling System
+
 A simple operational scheduling system built in Google Sheets to improve workforce planning and reduce manual coordination in a small business.
 
-📌 Project Overview
+---
 
-A simple scheduling system in Google Sheets for a beauty salon in Spain to manage employee shifts, real salon and real historical data (no personal info as per GDPR). Lots of manual input, but very easy to use. Organised by weeks and months, reflects 7 days week operation. Printable by week, in two different forms: 1 - as day wiev with 30min long slots marked with colours, or 2 - as entry and exit hour. Could be sent to employees as a screenshot. Owner can make any changes from her phone or pc. It also provides daily total in a main weekly sheet, and montly total in a separate sheet.
+## 📌 Project Overview
 
-🎯 Problem
+A scheduling system built in Google Sheets for a beauty salon in Spain to manage employee shifts using real (anonymised) historical data.
+
+The system is organised by weeks and months, supporting a 7-day operation. It is designed to be simple, practical, and easy to maintain, even with manual input.
+
+Key features include:
+- Weekly and monthly structure
+- Printable weekly views:
+  - day view (30-minute slots with colour coding)
+  - entry/exit hour format
+- Daily and monthly total hours tracking
+- Easy sharing (e.g. via screenshot)
+- Accessible from both phone and desktop
+
+---
+
+## 🎯 Problem
 
 The business needed:
-a clear and easy-to-use staff scheduling system
-a repeatable weekly structure
-daily totals and monthly totals easily accessible
-minimal time spent on manual updates and corrections
+- A clear and easy-to-use staff scheduling system  
+- A repeatable weekly structure  
+- Daily and monthly totals easily accessible  
+- Minimal time spent on manual updates and corrections  
 
-💡 Solution
+---
 
-Created a structured scheduling system using Google Sheets
-Designed a rolling weekly format allowing easy duplication for future periods
-Designed to minimise manual input and enable quick weekly/monthly reuse
-Ensured the system is intuitive and usable for non-technical users
-Owner only needs to choose from 3 shifts (Free, Works, Holiday) and assign them to up to 6 employees
-Different colours help differentiate shifts easily, leaves out lunch and unusual working hours etc.
+## 💡 Solution
 
-📊 Impact
+- Designed and implemented a structured scheduling system in Google Sheets  
+- Created a rolling weekly format allowing easy duplication for future periods  
+- Minimized manual input and enabled quick weekly/monthly reuse  
+- Ensured usability for non-technical users  
 
-Reduced time required for schedule planning
-Eliminated total hours counting
-Eliminated frequent manual corrections
-The structure helped identify workload distribution and potential scheduling gaps
-System has been running since the beginning of February, now running independently without adjustments for over a month
-Easy duplication system allows keeping using the schedule for as long as it serves
-Hiding pages alows storing data in the same place and keeping the main sheet tidy
+Operational simplifications:
+- Only 3 shift types: *Free, Works, Holiday*  
+- Supports up to 6 employees  
+- Colour coding for quick visual clarity  
+- Simplified structure (no unnecessary complexity like breaks)
 
-🛠 Tools & Skills
+---
 
-Google Sheets
-Process optimization
-Operational thinking
-Basic data structuring
+## 📊 Impact
 
-🔤 Note
+- Reduced time required for schedule planning  
+- Eliminated manual total hour counting  
+- Reduced frequent manual corrections  
+- Enabled visibility of workload distribution and potential scheduling gaps  
+- System has been running independently for over a month without adjustments  
+- Simple duplication allows long-term reuse  
+- Use of hidden sheets keeps the system tidy and not overloaded while still storring data  
+
+---
+
+## 🛠 Tools & Skills
+
+- Google Sheets  
+- Process optimization  
+- Operational thinking  
+- Basic data structuring  
+
+---
+
+## 🔤 Note
 
 The system interface is in Spanish, as it was designed for a local business in Spain. However, the structure and logic are language-independent.
 
-📷 Example
+---
 
-Days lined up with some shifts scheduled
-<img width="1480" height="660" alt="image" src="https://github.com/user-attachments/assets/4fc6d84f-e28d-499e-998c-ef934e68bbb0" />
+## 📷 Example
 
-Monthly total in a separate sheet for easier payroll
-<img width="1291" height="364" alt="image" src="https://github.com/user-attachments/assets/e85bc4cc-d81d-4b7b-8119-00eb36130752" />
+**Weekly schedule (shift allocation):**  
+<img width="1480" height="660" alt="image" src="https://github.com/user-attachments/assets/400b7643-d030-4350-9bc8-d9cef432dfdc" />
 
-🔗 Live Version (copy of a real schedule due to GDPR)
+
+**Monthly totals (payroll support):**  
+<img width="1291" height="364" alt="image" src="https://github.com/user-attachments/assets/5459fc87-bc71-4933-9787-989c55391cce" />
+
+
+---
+
+## 🔗 Live Version
 
 https://docs.google.com/spreadsheets/d/1kxKSfCo_UlVjGDXy0yskBSB2i3KusqwX-Jb261cplHE/edit?usp=sharing
 
-🧠 What I Learned
+---
 
-How to listen and hear the actual problem of the owner with a chaotic paper notebook used for scheduling, apply my own operational experience in scheduling and workflow management, and as a result translate operational needs into a simple structured system
-The importance of usability for non-technical users
-How small process improvements can significantly reduce manual workload
+## 🧠 What I Learned
+
+- How to identify the real problem behind a chaotic paper notebook scheduling process  
+- How to translate operational needs into a simple, structured solution  
+- The importance of usability for non-technical users  
+- How small process improvements can significantly reduce manual workload  
+
+---
 
 Have a great day!
