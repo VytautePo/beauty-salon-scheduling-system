@@ -51,3 +51,6 @@ Monthly total in a separate sheet for easier payroll
 🔗 Live Version (copy of a real schedule due to GDPR)
 
 https://docs.google.com/spreadsheets/d/1kxKSfCo_UlVjGDXy0yskBSB2i3KusqwX-Jb261cplHE/edit?gid=2103505788#gid=2103505788
+
+
+Have a great day!
