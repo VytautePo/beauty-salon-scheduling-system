@@ -56,6 +56,7 @@ Monthly total in a separate sheet for easier payroll
 https://docs.google.com/spreadsheets/d/1kxKSfCo_UlVjGDXy0yskBSB2i3KusqwX-Jb261cplHE/edit?usp=sharing
 
 🧠 What I Learned
+
 How to listen and hear the actual problem of the owner with a chaotic paper notebook used for scheduling, apply my own operational experience in scheduling and workflow management, and as a result translate operational needs into a simple structured system
 The importance of usability for non-technical users
 How small process improvements can significantly reduce manual workload
