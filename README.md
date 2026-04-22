@@ -16,6 +16,7 @@ minimal time spent on manual updates and corrections
 
 Created a structured scheduling system using Google Sheets
 Designed a rolling weekly format allowing easy duplication for future periods
+Designed to minimise manual input and enable quick weekly/monthly reuse
 Ensured the system is intuitive and usable for non-technical users
 Owner only needs to choose from 3 shifts (Free, Works, Holiday) and assign them to up to 6 employees
 Different colours help differentiate shifts easily, leaves out lunch and unusual working hours etc.
@@ -25,6 +26,7 @@ Different colours help differentiate shifts easily, leaves out lunch and unusual
 Reduced time required for schedule planning
 Eliminated total hours counting
 Eliminated frequent manual corrections
+The structure helped identify workload distribution and potential scheduling gaps
 System has been running since the beginning of February, now running independently without adjustments for over a month
 Easy duplication system allows keeping using the schedule for as long as it serves
 Hiding pages alows storing data in the same place and keeping the main sheet tidy
@@ -50,7 +52,7 @@ Monthly total in a separate sheet for easier payroll
 
 🔗 Live Version (copy of a real schedule due to GDPR)
 
-https://docs.google.com/spreadsheets/d/1kxKSfCo_UlVjGDXy0yskBSB2i3KusqwX-Jb261cplHE/edit?gid=2103505788#gid=2103505788
+https://docs.google.com/spreadsheets/d/1kxKSfCo_UlVjGDXy0yskBSB2i3KusqwX-Jb261cplHE/edit?usp=sharing
 
 
 Have a great day!
